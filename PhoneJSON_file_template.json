@@ -1,0 +1,141 @@
+{
+	"Id": {
+		"imei": "990013171825545",
+		"meidHex": "99001317182554",
+		"meidDec": "256691893501582420",
+		"esnStatus": "Good",
+		"esnChange": "No",
+		"originalMeid": "99001317182554"
+	},
+	"PhoneDescription": {
+		"Make": "Samsung",
+		"Model": "ANS UL40",
+		"Condition": "Brand New",
+		"Color": "White",
+		"OriginalCarrier": "Sprint",
+		"Network": "CDMA",
+		"Logo": "Generic"
+	},
+	"PhoneHardware": {
+		"Housing": "Good",
+		"TouchPen": "Good",
+		"Speaker": "Good",
+		"usbPort": "Good",
+		"Battery": "Removeable",
+		"LCD": "Good",
+		"Len": "Good",
+		"Touch": "Good",
+		"Shadow": "No",
+		"Microphone": "Good",
+		"HeadphoneJack": "Good",
+		"PowerButton": "Good",
+		"HomeButton": "Good",
+		"VolumeUpButton": "Good",
+		"VolumeDownButton": "Good",
+		"SwitchButton": "Good",
+		"FrontCamera": "Good",
+		"RearCamera": "Good",
+		"FlashLight": "Good",
+		"Digitizer": "Good",
+		"Bluetooth": "Good",
+		"NFC": "Good",
+		"Wifi": "Good",
+		"FaceID": "Good",
+		"FingerPrint": "Good",
+		"ProximitySensor": "Good",
+		"LightSensor": "Good",
+		"Vibration": "Good",
+		"ScreenRotation": "Good",
+		"SDcardReader": "Good",
+		"SimReader": "Good"
+	},
+	"PhoneSoftware": {
+		"TurnOff": "No",
+		"Freeze": "No",
+		"AppCrash": "No",
+		"GoogleAccount": "No",
+		"SamsungAccount": "No",
+		"Icloud": "No",
+		"UserLock": "No",
+		"MissingApp": [
+			"None",
+			"Camera"
+		],
+		"GoogleVoice": "Good",
+		"Siri": "Good",
+		"SoftwareVersion": "Android 10 or iOS 14.5",
+		"FactoryReset": "Date"
+	},
+	"PhoneIssues": {
+		"IssuesDescription": [
+			"No"
+		]
+	},
+	"Testing": {
+		"TestingStatus": "Passed",
+		"Tester": "Sau Nguyen",
+		"TestDate": "04/27/2021",
+		"TestingHistory": [
+			"None"
+		]
+	},
+	"Repair": {
+		"RepairStatus": "Passed",
+		"Technician": "Sau Nguyen",
+		"RepairDate": "04/27/2021",
+		"RepairHistory": [
+			"None"
+		]
+	},
+	"Flashing": {
+		"FlashStatus": "Passed",
+		"Flasher": "Sau Nguyen",
+		"FlashDate": "04/27/2021",
+		"FlashHistory": [
+			"None"
+		]
+	},
+	"Charging": {
+		"ChargeStatus": "Passed",
+		"Worker": "Sau Nguyen",
+		"ChargeDate": "04/27/2021",
+		"ChargeHistory": [
+			"None"
+		]
+	},
+	"Warehouse": {
+		"Invoice": "S8241",
+		"ScannedBy": "Sau Nguyen",
+		"ScannedDate": "04/27/2021",
+		"ScannedNote": "None",
+		"ItbBox": "ITB210322",
+		"ItbHistory": [
+			"Move to ITB210322 on date 02/04/2021"
+		]
+	},
+	"RMA": {
+		"RMADescription": "S8241",
+		"RMADate": "04/27/2021",
+		"RMANote": [
+			"None"
+		]
+	},
+	"WorkOrder": {
+		"WorkOrderNumber": "S8241",
+		"CurrentLocation": "Flashing",
+		"TranferHistory": [
+			"Transfered to Flashing on 02/04/2021"
+		],
+		"WorkBy": "Sau Nguyen",
+		"WorkDate": "04/27/2021",
+		"WorkOderHistory": [
+			"None"
+		]
+	},
+	"SaleOrder": {
+		"SaleOrderNumber": "S8241",
+		"FulfilledBy": "Sau Nguyen",
+		"FulfilledDate": "04/27/2021",
+		"FulfilledNote": "None"
+	}
+}
